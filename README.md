@@ -1,4 +1,4 @@
-﻿# Temperature-Converter---II
+### Temperature Converter II
 
 
 ---
@@ -43,4 +43,3 @@ So with `fahrenheit = 98.3`, we compute:
 36.83333
 ```
 
-Let me know if you'd like a version that [takes user input](f) or prints [more decimal places](f).
