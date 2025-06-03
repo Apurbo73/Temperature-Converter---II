@@ -1,6 +1,5 @@
 ﻿# Temperature-Converter---II
 
-Sure! Here's the C program that converts a temperature from Fahrenheit to Celsius using the given formula in reverse, and prints the result using a **single `printf` statement**:
 
 ---
 
